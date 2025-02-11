@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "661bc116f39d2241198c925e"
+  },
+  "name": "Md Zahid Hassan",
+  "email": "zahidhassan956@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801750548251",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713094933/jty5pi89fiaxbyhmohog.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc191f39d2241198c9262"
+  },
+  "name": "Md Mahadi Hasan",
+  "email": "mahadihasan@baust.edu.bd",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801303516351",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095056/bym2dzazu0f3huygcdrb.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc21cf39d2241198c9265"
+  },
+  "name": "Md. Khalid Saifullah",
+  "email": "khalidsyfullah@baust.edu.bd",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801617070297",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095196/q9tzws6xaqwsidqhfrgh.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc2bff39d2241198c9268"
+  },
+  "name": "Md. Manirujjaman",
+  "email": "manirujjaman25803690@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801772430221",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095358/wrip6tx4jnyq8vwwiah7.jpg",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc30af39d2241198c926b"
+  },
+  "name": "S. M. Abdullah Ashik",
+  "email": "abdullahashik065@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801750067431",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095434/baan8th52aylooapawjr.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc38cf39d2241198c926e"
+  },
+  "name": "Anite Halim Sagor",
+  "email": " anitehalim@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801784055149",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095563/ah187skemfz2nl6eux00.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc430f39d2241198c9271"
+  },
+  "name": "Md Zahim Hassan",
+  "email": "zahimhassan@baust.edu.bd",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801736393334",
+  "department": "ICT",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095728/wfgme06ljvwvkydlmkpr.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc4caf39d2241198c9274"
+  },
+  "name": "Ananna Hoque Shathi",
+  "email": "anannahoque.cse10@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801759585645",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095881/lvrggluqnn3gobx01bfp.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc4f9f39d2241198c9277"
+  },
+  "name": "Ashrafun Zannat",
+  "email": "spspzannat@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801991553382",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095928/dtvjaoyw1qqrwsa7dkds.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc53ef39d2241198c927a"
+  },
+  "name": "Urmi Saha",
+  "email": "sahaurmi@baust.edu.bd",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801784573535",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713095998/ndkl2jhteumloiurjkqg.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc562f39d2241198c927d"
+  },
+  "name": "Munira Akter Mou",
+  "email": "muniramou32@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801717016355",
+  "department": "CSE",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713096033/hcstfzz2sv0dfxabglrz.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bc59af39d2241198c9280"
+  },
+  "name": "Shifa Tasmiah Tisha",
+  "email": "tasmiahtisha337@gmail.com",
+  "designition": "Lecturer",
+  "position": "Member",
+  "phone": "+8801750391581",
+  "department": "ICT",
+  "image": "https://res.cloudinary.com/dn9emobpb/image/upload/v1713096089/cqmiws0yv9o0n9zj2fnx.png",
+  "creation": {
+    "$date": "2024-04-14T11:40:04.588Z"
+  },
+  "__v": 0
+}]

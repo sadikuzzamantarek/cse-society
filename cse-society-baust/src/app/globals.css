@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0px 0px;
+  margin: 0px 0px;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(150, 148, 148);
+  background: linear-gradient(
+    0deg,
+    rgb(226, 223, 223) 0%,
+    rgb(140, 243, 243) 100%
+  );
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0px auto;
+}
+
+.testimonialContainer {
+  background: #231e39;
+}
+.infoCard {
+  background: #151c28;
+}
